@@ -1,3 +1,6 @@
+//Gabriel Araujo Augustavo
+//12111ECP017
+
 #include <stdio.h>
 
 #define TOTAL_INPUT 25
